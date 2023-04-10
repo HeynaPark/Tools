@@ -10,3 +10,6 @@ Created : Jun 2022
 
 -mp4 파일만 가능
 -드래그 앤 드롭으로 파일 불러오기 가능
+
+
+![image](https://user-images.githubusercontent.com/90448406/230814414-684ae654-88b2-4c46-9586-1c93a6a5462d.png)
